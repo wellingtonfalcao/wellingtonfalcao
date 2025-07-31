@@ -1,25 +1,31 @@
 # 👋 Olá, eu sou o Wellington Falcão!
 
 🎓 Estudante de **Engenharia de Computação**  
-🎨 Designer com formação em **Desenho Industrial – Programação Visual**  
+🎨 Senior Product Designer com formação em **Desenho Industrial – Programação Visual**  
 🔍 Explorador de sistemas embarcados, arquitetura de computadores, engenharia de software e design digital
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Quem sou
 
-Sou apaixonado por entender como as coisas funcionam por baixo dos panos. Minha trajetória une engenharia e design de produto digital com foco em clareza, eficiência e propósito.
+Com mais de 15 anos de experiência como Designer, estou em transição para a área de Engenharia da Computação, com o objetivo de unir minha bagagem em UX/UI e Product Design ao desenvolvimento de soluções tecnológicas mais eficazes, escaláveis e centradas no usuário.
 
-Atualmente, estou construindo projetos que integram:
-- Engenharia de software e hardware
-- Experiência do usuário com base técnica
-- Raciocínio sistêmico aplicado a soluções digitais
+Atuei em equipes multidisciplinares de DevOps, desenvolvimento de software, marketing e eventos corporativos e governamentais. Tenho experiência como Designer de Produto e Product Owner, tanto na interlocução entre cliente e equipe, quanto nos bastidores da concepção e prototipação de soluções digitais.
+
+Participei de projetos de inovação e simuladores para a indústria, atendendo clientes como:
+TechnipFMC, Ternium Brasil, Exército Brasileiro, e projetos em parceria com empresas como GreenAnt (LabProcel), ConnectData (Eletrobrás) e RZX Tecnologia (Petrobrás).
+
+Desde 2011, colaboro como consultor de tecnologia e design com a rede de ensino Ação1, além de manter uma trajetória sólida como freelancer, com foco em sites, identidades visuais, e-commerces, blogs e materiais multimídia.
+
+Atualmente sou estudante de Engenharia da Computação, buscando aprofundar meus conhecimentos técnicos para contribuir com a criação de sistemas mais robustos, eficientes e com melhor experiência homem-máquina.
+
+Acredito que design e engenharia juntos são forças poderosas para transformar ideias em soluções completas.
 
 ---
 
 ## 🛠️ Tecnologias e interesses
 
-- **Linguagens**: Java, C#, JavaScript, HTML/CSS, Assembly, C
+- **Linguagens**: Java, C#, JavaScript, HTML/CSS, Assembly, C, C++
 - **Frameworks**: Spring Boot, .NET, Arduino
 - **Temas**:  
   🧠 Arquitetura de computadores  
@@ -32,13 +38,13 @@ Atualmente, estou construindo projetos que integram:
 
 ## 📂 Meus repositórios
 
-🔬 [`studies-and-experiments`](https://github.com/wellingtonfalcao/studies-and-experiments)  
+🔬 [/studies-and-experiments/](https://github.com/wellingtonfalcao/studies-and-experiments)  
 Laboratório de estudos, testes e experimentações técnicas
 
-🎓 [`college-codes`](https://github.com/wellingtonfalcao/college-codes)  
+🎓 [/college-codes/](https://github.com/wellingtonfalcao/college-codes)  
 Códigos produzidos em provas e exercícios da graduação
 
-💡 [`personal-projects`](https://github.com/wellingtonfalcao/personal-projects)  
+💡 [/personal-projects/](https://github.com/wellingtonfalcao/personal-projects)  
 Projetos autorais por interesse ou prática
 
 ---
