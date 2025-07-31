@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Computação**  
 🎨 Senior Product Designer com formação em **Desenho Industrial – Programação Visual**  
-🔍 Explorador de sistemas embarcados, arquitetura de computadores, engenharia de software e design digital
+🔍 Conteudista de LinkedIn sobre assuntos relacionados a tecnologia no campo crítico
 
 ---
 
