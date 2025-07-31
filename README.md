@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Wellington Falcão!
+# Wellington Falcão
 
 🎓 Estudante de **Engenharia de Computação**  
 🎨 Senior Product Designer com formação em **Desenho Industrial – Programação Visual**  
